@@ -1,6 +1,6 @@
 body {
-  background: purple;
-  color: lavender; }
+  background: lightcoral;
+  }
 
 p{
   color: #000;
@@ -8,6 +8,16 @@ p{
 .navbar {
   border-bottom: #008ed6 3px;
   opacity: 0.8; }
+.jumbo {
+    font-family: 'Playball', cursive;
+    font-size: 125px;
+    color: purple;
+}
+.jumbo-intro{
+    font-family: 'Playball', cursive;
+    font-size:30px;
+    color: purple;
+}
 
 #home-section {
   background: url("../img/home-sec.jpeg");
@@ -42,3 +52,11 @@ p{
   background: #fff;
   padding: 4px;
   border-radius: 5px; }
+
+.fa{
+    color: purple;
+}
+
+.card{
+    background-color:  lightpink;
+}
