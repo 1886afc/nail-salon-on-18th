@@ -1,5 +1,5 @@
 body {
-  background: lightcoral;
+  background: black;
   }
 
 p{
@@ -11,16 +11,21 @@ p{
 .jumbo {
     font-family: 'Playball', cursive;
     font-size: 125px;
-    color: purple;
+    color: silver;
+
 }
 .jumbo-intro{
     font-family: 'Playball', cursive;
     font-size:30px;
-    color: purple;
+    color: silver;
+}
+
+h1, h2, h3, h4, h5{
+    font-family: 'Playball', cursive;
 }
 
 #home-section {
-  background: url("../img/home-sec.jpeg");
+  background: url("../img/home-n.jpeg");
   min-height: 500px;
   background-size: cover;
   background-attachment: fixed; }
@@ -41,22 +46,14 @@ p{
     padding: 4px;
     border-radius: 5px; }
 
-#explore-section .fa, #share-section .fa {
-  color: #FFF;
-  background: #333;
-  padding: 4px;
-  border-radius: 5px; }
 
-#create-section .fa {
-  color: #008ed6;
-  background: #fff;
-  padding: 4px;
-  border-radius: 5px; }
+
+
 
 .fa{
-    color: purple;
+    color: #17a2b8;
 }
 
 .card{
-    background-color:  lightpink;
+    background-color:  lightgray;
 }
