@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5{
 
 #home-section {
   background: url("../img/home-n.jpeg");
-  min-height: 500px;
+  min-height: 800px;
   background-size: cover;
   background-attachment: fixed; }
   #home-section .dark-overlay {
@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5{
     top: 0;
     left: 0;
     width: 100%;
-    min-height: 500px; }
+    min-height: 800px; }
   #home-section .home-inner {
     padding-top: 150px; }
   #home-section .card-form {
